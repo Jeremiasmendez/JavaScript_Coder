@@ -1,0 +1,11 @@
+[
+    {"curso":"Guitarra","tiempo":2800,"vacante":"Disponible", "id":1},
+    {"curso":"Bajo","tiempo":3000,"vacante":"Disponible","id":2},
+    {"curso":"Canto","tiempo":3500,"vacante":"No disponible", "id":3},
+    {"curso":"Piano","tiempo":3200,"vacante":"Disponible", "id":4 },
+    {"curso":"Bateria","tiempo":3800,"vacante":"No disponible", "id":5 },
+    {"curso":"Saxo","tiempo":5000,"vacante":"No disponible", "id":6 }
+]
+
+
+
